@@ -12,7 +12,7 @@ import { WheelEngine } from "./wheel-engine.js";
 const SITE_ORIGIN = "https://spin.alsatian.co";
 const OG_LOCALE_BY_LANG = {
   en: "en_US",
-  vi: "vi_VN",
+  vi: "km_kh",
   es: "es_ES",
   pt: "pt_BR",
   fr: "fr_FR",
